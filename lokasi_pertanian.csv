@@ -1,0 +1,6 @@
+lokasi,latitude,longitude,curah_hujan_mm,tanah_sesuai,kemiringan_derajat
+Lokasi A,-3.800,102.265,1800,1,4
+Lokasi B,-3.910,102.300,1200,1,12
+Lokasi C,-3.750,102.400,2100,0,7
+Lokasi D,-3.860,102.350,1700,1,6
+Lokasi E,-3.990,102.420,1500,1,18
