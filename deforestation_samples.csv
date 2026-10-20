@@ -1,0 +1,16 @@
+area_ha,rasio_panjang_lebar,jalan_km,perubahan_vegetasi,indikasi_panas,penyebab
+12,1.1,0.8,0.8,0.2,pertanian
+85,2.8,0.3,0.9,0.7,pertanian
+7,1.4,2.0,0.7,0.1,penebangan
+5,1.2,0.4,0.6,0.1,pembangunan_jalan
+30,3.5,0.2,0.8,0.3,pertanian
+18,1.8,1.4,0.7,0.1,penebangan
+40,2.4,0.5,0.9,0.9,kebakaran
+60,1.6,1.1,0.7,0.8,kebakaran
+22,1.1,0.1,0.8,0.1,pertambangan
+55,1.3,0.2,0.9,0.2,pertambangan
+3,4.2,0.1,0.5,0.1,pembangunan_jalan
+15,2.0,1.8,0.6,0.2,penebangan
+70,2.9,0.3,0.8,0.6,pertanian
+35,1.2,0.8,0.8,0.9,kebakaran
+10,1.1,0.3,0.7,0.2,pertambangan
